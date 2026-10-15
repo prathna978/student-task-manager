@@ -1,0 +1,13 @@
+STUDENT TASK MANAGER — SUBMISSION SCREENSHOT CHECKLIST
+
+[ ] 1. Local application home page in browser
+[ ] 2. Add two or three example tasks
+[ ] 3. A task marked Completed
+[ ] 4. VS Code showing app.py, templates/index.html, static/style.css, requirements.txt and Procfile
+[ ] 5. Terminal showing successful app startup
+[ ] 6. Public cloud URL in browser (only after deployment)
+[ ] 7. Hosting resource/settings screen (hide private details)
+[ ] 8. Persistent cloud storage configuration and a successful persistence test (only after configured)
+
+Do not fake screenshots or claim deployment is complete unless it has actually been tested.
+Never show passwords, database URLs containing credentials, API keys, or secret tokens.
